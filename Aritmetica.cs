@@ -9,7 +9,7 @@ namespace Calculos
     /// <summary>
     /// Implementa operações aritméticas.
     /// </summary>
-    internal  class Aritmetica
+    internal static class Aritmetica
     {
 		/// <summary>
         /// Tipo de conversão de temperatura a executar.
