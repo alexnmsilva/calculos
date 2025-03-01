@@ -5,6 +5,7 @@ Aplicação C# para efetuar diversos tipos de cálculos.
 ![Aplicação Cálculos](aplicacao-calculos.png)
 
 Desenvolvida no âmbito da ação de formação **Introdução ao Git e GitHub**
+
 Executado como exercício de formação por *Alexandre Silva*
 
 ## Operações suportadas
